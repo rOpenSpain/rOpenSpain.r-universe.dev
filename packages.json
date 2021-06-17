@@ -8,6 +8,10 @@
       "url":"https://github.com/rOpenSpain/tidyBdE"
    },
    {
+      "package":"rostemplate",
+      "url":"https://github.com/rOpenSpain/rostemplate"
+   },
+   {
       "package":"mapSpain",
       "url":"https://github.com/rOpenSpain/mapSpain"
    },
