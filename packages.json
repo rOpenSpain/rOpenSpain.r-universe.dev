@@ -4,9 +4,15 @@
       "url":"https://github.com/rOpenSpain/climaemet"
    },
    {
+      "package":"infoelectoral",
+      "url":"https://github.com/rOpenSpain/infoelectoral"
+   },
+
+   {
       "package":"tidyBdE",
       "url":"https://github.com/rOpenSpain/tidyBdE"
    },
+
    {
       "package":"rostemplate",
       "url":"https://github.com/rOpenSpain/rostemplate"
