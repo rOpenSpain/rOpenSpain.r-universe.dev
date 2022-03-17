@@ -66,6 +66,10 @@
       "url":"https://github.com/rOpenSpain/CatastRo"
    },
    {
+      "package":"CatastRoNav",
+      "url":"https://github.com/rOpenSpain/CatastRoNav"
+   },
+   {
       "package":"opendataes",
       "url":"https://github.com/rOpenSpain/opendataes"
    }
