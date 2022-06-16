@@ -4,6 +4,10 @@
       "url":"https://github.com/rOpenSpain/climaemet"
    },
    {
+      "package":"INEbaseR",
+      "url":"https://github.com/rOpenSpain/INEbaseR"
+   },
+   {
       "package":"infoelectoral",
       "url":"https://github.com/rOpenSpain/infoelectoral"
    },
