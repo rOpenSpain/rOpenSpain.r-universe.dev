@@ -34,10 +34,6 @@
       "url":"https://github.com/rOpenSpain/senadoRES"
    },
    {
-      "package":"LAU2boundaries4spain",
-      "url":"https://github.com/rOpenSpain/LAU2boundaries4spain"
-   },
-   {
       "package":"airqualityES",
       "url":"https://github.com/rOpenSpain/airqualityES"
    },
