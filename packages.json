@@ -46,6 +46,10 @@
       "url":"https://github.com/rOpenSpain/istacbaser"
    },
    {
+      "package":"istacr",
+      "url":"https://github.com/rOpenSpain/istacr"
+   },
+   {
       "package":"caRtociudad",
       "url":"https://github.com/rOpenSpain/caRtociudad"
    },
