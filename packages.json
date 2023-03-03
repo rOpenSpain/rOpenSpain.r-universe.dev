@@ -14,6 +14,11 @@
    },
 
    {
+      "package":"enseRes",
+      "url":"https://github.com/rOpenSpain/enseRes"
+   },
+   
+   {
       "package":"rostemplate",
       "url":"https://github.com/rOpenSpain/rostemplate"
    },
