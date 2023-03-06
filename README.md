@@ -44,7 +44,7 @@ In a few minutes it would be available on
 
 # Enable this universe
 options(repos = c(
-  ropengov = "https://ropenspain.r-universe.dev",
+  ropenspain = "https://ropenspain.r-universe.dev",
   CRAN = "https://cloud.r-project.org"
 ))
 
@@ -53,6 +53,5 @@ install.packages("rostemplate")
 
 # Alternatively a single line
 install.packages("rostemplate", repos = c("https://ropenspain.r-universe.dev", "https://cloud.r-project.org"))
-
 
 ```
