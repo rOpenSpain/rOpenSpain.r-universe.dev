@@ -7,7 +7,14 @@
       "package":"infoelectoral",
       "url":"https://github.com/rOpenSpain/infoelectoral"
    },
-
+   {
+      "package":"INEbaseR",
+      "url":"https://github.com/rOpenSpain/INEbaseR"
+   },
+   {
+      "package":"LAU2boundaries4spain",
+      "url":"https://github.com/rOpenSpain/LAU2boundaries4spain"
+   },
    {
       "package":"tidyBdE",
       "url":"https://github.com/rOpenSpain/tidyBdE"
