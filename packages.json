@@ -4,6 +4,10 @@
       "url":"https://github.com/rOpenSpain/climaemet"
    },
    {
+      "package":"comidistar",
+      "url":"https://github.com/rOpenSpain/comidistar"
+   },
+   {
       "package":"infoelectoral",
       "url":"https://github.com/rOpenSpain/infoelectoral"
    },
