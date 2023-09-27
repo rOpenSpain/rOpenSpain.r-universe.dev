@@ -4,6 +4,10 @@
       "url":"https://github.com/rOpenSpain/climaemet"
    },
    {
+      "package":"resios",
+      "url":"https://github.com/rOpenSpain/resios"
+   },
+   {
       "package":"tidycenso",
       "url":"https://github.com/rOpenSpain/tidycenso"
    },
