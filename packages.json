@@ -93,6 +93,7 @@
       "package":"CatastRoNav",
       "url":"https://github.com/rOpenSpain/CatastRoNav"
    },
+   {
       "package":"CatastRoEus",
       "url":"https://github.com/rOpenSpain/CatastRoEus"
    },
