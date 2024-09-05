@@ -100,5 +100,9 @@
    {
       "package":"opendataes",
       "url":"https://github.com/rOpenSpain/opendataes"
+   },
+      {
+      "package":"spanishoddata",
+      "url":"https://github.com/rOpenSpain/spanishoddata"
    }
 ]
