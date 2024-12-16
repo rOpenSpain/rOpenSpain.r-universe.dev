@@ -43,7 +43,8 @@
    },
    {
       "package":"mapSpain",
-      "url":"https://github.com/rOpenSpain/mapSpain"
+      "url":"https://github.com/rOpenSpain/mapSpain",
+      "branch":"main"
    },
    {
       "package":"MorbiditySpainR",
