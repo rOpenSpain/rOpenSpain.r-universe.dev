@@ -4,10 +4,6 @@
       "url":"https://github.com/rOpenSpain/climaemet"
    },
    {
-      "package":"infoelectoral",
-      "url":"https://github.com/rOpenSpain/infoelectoral"
-   },
-   {
       "package":"resios",
       "url":"https://github.com/rOpenSpain/resios"
    },
