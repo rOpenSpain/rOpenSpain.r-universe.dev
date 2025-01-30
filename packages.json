@@ -1,109 +1,106 @@
 [
    {
-      "package":"climaemet",
-      "url":"https://github.com/rOpenSpain/climaemet"
+     "package": "BOE",
+     "url": "https://github.com/rOpenSpain/BOE"
    },
    {
-      "package":"resios",
-      "url":"https://github.com/rOpenSpain/resios"
+     "package": "CatastRo",
+     "url": "https://github.com/rOpenSpain/CatastRo"
    },
    {
-      "package":"tidycenso",
-      "url":"https://github.com/rOpenSpain/tidycenso"
+     "package": "CatastRoEus",
+     "url": "https://github.com/rOpenSpain/CatastRoEus"
    },
    {
-      "package":"comidistar",
-      "url":"https://github.com/rOpenSpain/comidistar"
+     "package": "CatastRoNav",
+     "url": "https://github.com/rOpenSpain/CatastRoNav"
    },
    {
-      "package":"infoelectoral",
-      "url":"https://github.com/rOpenSpain/infoelectoral"
+     "package": "INEbaseR",
+     "url": "https://github.com/rOpenSpain/INEbaseR"
    },
    {
-      "package":"INEbaseR",
-      "url":"https://github.com/rOpenSpain/INEbaseR"
+     "package": "LAU2boundaries4spain",
+     "url": "https://github.com/rOpenSpain/LAU2boundaries4spain"
    },
    {
-      "package":"LAU2boundaries4spain",
-      "url":"https://github.com/rOpenSpain/LAU2boundaries4spain"
+     "package": "MicroDatosEs",
+     "url": "https://github.com/rOpenSpain/MicroDatosEs"
    },
    {
-      "package":"tidyBdE",
-      "url":"https://github.com/rOpenSpain/tidyBdE"
-   },
-
-   {
-      "package":"enseResp",
-      "url":"https://github.com/rOpenSpain/enseResp"
-   },
-   
-   {
-      "package":"rostemplate",
-      "url":"https://github.com/rOpenSpain/rostemplate"
+     "package": "MorbiditySpainR",
+     "url": "https://github.com/rOpenSpain/MorbiditySpainR"
    },
    {
-      "package":"mapSpain",
-      "url":"https://github.com/rOpenSpain/mapSpain",
-      "branch":"main"
+     "package": "Siane",
+     "url": "https://github.com/rOpenSpain/Siane"
    },
    {
-      "package":"MorbiditySpainR",
-      "url":"https://github.com/rOpenSpain/MorbiditySpainR"
+     "package": "airqualityES",
+     "url": "https://github.com/rOpenSpain/airqualityES"
    },
    {
-      "package":"senadoRES",
-      "url":"https://github.com/rOpenSpain/senadoRES"
+     "package": "caRtociudad",
+     "url": "https://github.com/rOpenSpain/caRtociudad"
    },
    {
-      "package":"airqualityES",
-      "url":"https://github.com/rOpenSpain/airqualityES"
+     "package": "climaemet",
+     "url": "https://github.com/rOpenSpain/climaemet"
    },
    {
-      "package":"BOE",
-      "url":"https://github.com/rOpenSpain/BOE"
+     "package": "comidistar",
+     "url": "https://github.com/rOpenSpain/comidistar"
    },
    {
-      "package":"spanish",
-      "url":"https://github.com/rOpenSpain/spanish"
+     "package": "enseResp",
+     "url": "https://github.com/rOpenSpain/enseResp"
    },
    {
-      "package":"istacbaser",
-      "url":"https://github.com/rOpenSpain/istacbaser"
+     "package": "infoelectoral",
+     "url": "https://github.com/rOpenSpain/infoelectoral"
    },
    {
-      "package":"istacr",
-      "url":"https://github.com/rOpenSpain/istacr"
+     "package": "istacbaser",
+     "url": "https://github.com/rOpenSpain/istacbaser"
    },
    {
-      "package":"caRtociudad",
-      "url":"https://github.com/rOpenSpain/caRtociudad"
+     "package": "istacr",
+     "url": "https://github.com/rOpenSpain/istacr"
    },
    {
-      "package":"Siane",
-      "url":"https://github.com/rOpenSpain/Siane"
+     "package": "mapSpain",
+     "url": "https://github.com/rOpenSpain/mapSpain"
    },
    {
-      "package":"MicroDatosEs",
-      "url":"https://github.com/rOpenSpain/MicroDatosEs"
+     "package": "opendataes",
+     "url": "https://github.com/rOpenSpain/opendataes"
    },
    {
-      "package":"CatastRo",
-      "url":"https://github.com/rOpenSpain/CatastRo"
+     "package": "resios",
+     "url": "https://github.com/rOpenSpain/resios"
    },
    {
-      "package":"CatastRoNav",
-      "url":"https://github.com/rOpenSpain/CatastRoNav"
+     "package": "rostemplate",
+     "url": "https://github.com/rOpenSpain/rostemplate"
    },
    {
-      "package":"CatastRoEus",
-      "url":"https://github.com/rOpenSpain/CatastRoEus"
+     "package": "senadoRES",
+     "url": "https://github.com/rOpenSpain/senadoRES"
    },
    {
-      "package":"opendataes",
-      "url":"https://github.com/rOpenSpain/opendataes"
+     "package": "spanish",
+     "url": "https://github.com/rOpenSpain/spanish"
    },
-      {
-      "package":"spanishoddata",
-      "url":"https://github.com/rOpenSpain/spanishoddata"
+   {
+     "package": "spanishoddata",
+     "url": "https://github.com/rOpenSpain/spanishoddata"
+   },
+   {
+     "package": "tidyBdE",
+     "url": "https://github.com/rOpenSpain/tidyBdE"
+   },
+   {
+     "package": "tidycenso",
+     "url": "https://github.com/rOpenSpain/tidycenso"
    }
-]
+ ]
