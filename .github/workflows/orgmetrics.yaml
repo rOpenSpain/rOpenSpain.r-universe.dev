@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, master]
   schedule:
   - cron: "00 08 * * 1,4"
 
